@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sound_tip_text_size">16sp</dimen>
+    <dimen name="hello_world_text_size">34sp</dimen>
+</resources>
