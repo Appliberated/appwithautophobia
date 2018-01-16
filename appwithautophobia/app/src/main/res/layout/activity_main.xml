@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/rootLayout"
@@ -11,19 +11,10 @@
         android:id="@+id/soundTip"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:height="?android:attr/actionBarSize"
-        android:background="@color/colorPrimaryDark"
-        android:gravity="center"
-        android:textColor="@color/colorText"
-        android:textSize="@dimen/sound_tip_text_size"/>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="@string/hello_world"
+        android:layout_gravity="center"
+        android:text="@string/sound_tip"
         android:textAlignment="center"
-        android:textColor="@color/colorText"
-        android:textSize="@dimen/hello_world_text_size"/>
+        android:textAppearance="@android:style/TextAppearance.Medium"
+        android:textColor="@color/colorText"/>
 
-</RelativeLayout>
+</LinearLayout>

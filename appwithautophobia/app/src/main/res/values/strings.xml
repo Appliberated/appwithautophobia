@@ -1,5 +1,10 @@
 <resources>
+    <!-- The full app name -->
     <string name="app_name">Hello World App with Autophobia</string>
+
+    <!-- The short app name that should appear in the launcher -->
+    <string name="app_short_name">App with Autophobia</string>
+
+    <!-- The sound tip -->
     <string name="sound_tip">"%s  Make sure the sound is on"</string>
-    <string name="hello_world">Hello World</string>
 </resources>
