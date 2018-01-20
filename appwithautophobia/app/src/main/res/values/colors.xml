@@ -17,9 +17,11 @@
 -->
 
 <resources>
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="material_blue_grey_500">#FF607D8B</color>
+
+    <color name="colorPrimary">@color/material_blue_grey_500</color>
     <color name="colorNavigationBar">@color/colorPrimary</color>
-    <color name="colorText">#FFFFFF</color>
+    <color name="colorText">@color/white</color>
 </resources>
