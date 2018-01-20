@@ -17,6 +17,12 @@ Don't worry, the app is free of ads, does not require Internet access, and no pe
 
 "Hello World" programs and apps are pretty famous, even if all they usually do is write "Hello, World!" on the screen. When learning a new programming language or platform (Kotlin on Android in this case), starting with such a simple app has become a tradition.
 
+<a href='https://play.google.com/store/apps/details?id=com.appliberated.appwithautophobia'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="240"/>
+</a>
+
+**[Download APK from Github Releases](https://github.com/appliberated/appwithautophobia/releases/latest)**
+
 ## Source Code
 
 Hello World App with Autophobia is written in Kotlin using Android Studio.
