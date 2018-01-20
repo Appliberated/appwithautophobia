@@ -1,7 +1,7 @@
 # Hello World App with Autophobia
 
-<a href="https://user-images.githubusercontent.com/33293361/35162415-f98cc158-fd4b-11e7-82f2-649aadb065fe.png" target="_blank">
-  <img src="https://user-images.githubusercontent.com/33293361/35162415-f98cc158-fd4b-11e7-82f2-649aadb065fe.png" width="300" 
+<a href="https://user-images.githubusercontent.com/33293361/35186699-18584d52-fe21-11e7-84da-36544194d9e7.png" target="_blank">
+  <img src="https://user-images.githubusercontent.com/33293361/35186699-18584d52-fe21-11e7-84da-36544194d9e7.png" width="300" 
        alt="Hello World App with Autophobia Screenshot" align="right" hspace="20" />
 </a>
 
