@@ -1,5 +1,12 @@
 # Hello World App with Autophobia
 
+[![Version badge](https://img.shields.io/github/v/tag/Appliberated/appwithautophobia?color=forestgreen&label=version)](https://github.com/Appliberated/appwithautophobia/releases)
+[![Apache License badge](https://img.shields.io/github/license/Appliberated/appwithautophobia?color=9c0000)](LICENSE)
+[![GitHub Code Size badge](https://img.shields.io/github/languages/code-size/Appliberated/appwithautophobia)](https://github.com/Appliberated/appwithautophobia)
+[![Style badge](https://img.shields.io/badge/style-flutter__lints-4BC0F5.svg)](https://pub.dev/packages/flutter_lints)
+[![Contributions Welcome badge](https://img.shields.io/badge/contributions-welcome-cornflowerblue)](#Contributing)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Appliberated/appwithautophobia/total)
+
 <a href="repo-assets/appwithautophobia-android-phone-screenshot.png" target="_blank">
   <img src="repo-assets/appwithautophobia-android-phone-screenshot.png" width="300" 
        alt="Hello World App with Autophobia Screenshot" align="right" hspace="20" />
