@@ -1,7 +1,7 @@
 # Hello World App with Autophobia
 
-<a href="https://user-images.githubusercontent.com/33293361/35186699-18584d52-fe21-11e7-84da-36544194d9e7.png" target="_blank">
-  <img src="https://user-images.githubusercontent.com/33293361/35186699-18584d52-fe21-11e7-84da-36544194d9e7.png" width="300" 
+<a href="repo-assets/appwithautophobia-android-phone-screenshot.png" target="_blank">
+  <img src="repo-assets/appwithautophobia-android-phone-screenshot.png" width="300" 
        alt="Hello World App with Autophobia Screenshot" align="right" hspace="20" />
 </a>
 
@@ -17,9 +17,7 @@ Don't worry, the app is free of ads, does not require Internet access, and no pe
 
 "Hello World" programs and apps are pretty famous, even if all they usually do is write "Hello, World!" on the screen. When learning a new programming language or platform (Kotlin on Android in this case), starting with such a simple app has become a tradition.
 
-<a href='https://play.google.com/store/apps/details?id=com.appliberated.appwithautophobia'>
-  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="240"/>
-</a>
+## Try the app
 
 **[Download APK from Github Releases](https://github.com/appliberated/appwithautophobia/releases/latest)**
 
@@ -31,9 +29,13 @@ Hello World App with Autophobia is written in Kotlin using Android Studio.
 
 Contributions are welcome! For feature requests and bug reports please [submit an issue](https://github.com/appliberated/appwithautophobia/issues).
 
-## Sponsor
+## Support my work
 
-Hello World App with Autophobia (and all Appliberated free apps) are supported by [East-Tec](http://www.east-tec.com), the home of [east-tec Eraser](http://www.east-tec.com/eraser/), the privacy tool that quickly and securely covers your online and PC tracks.
+Hello World App with Autophobia is a free app, and I enjoy creating and sharing learning projects like this, along with other useful [free apps](https://www.appliberated.com/). If you'd like to support my work, consider checking out the following Pro applications:
+
+| Pro Apps | [Pitch Black Wallpaper Pro](https://www.tecdrop.com/pitchblackwallpaperpro/) | [RGB Color Wallpaper Pro](https://www.tecdrop.com/rgbcolorwallpaperpro/) |
+| ------------ | ------------------------- | --- |
+| <a href="https://www.tecdrop.com/apps/pro/"><img width="200" src="repo-assets/tecdrop-pro-apps.png" alt="Tecdrop Pro Apps" /></a> | <li>Pitch black & dark wallpapers</li><li>AI-generated wallpapers</li><li>Enhances battery life</li><li>Reduces eyestrain</li> | <li>Set any color as wallpaper</li><li>Endless color options, built-in & custom</li><li>Reduce visual clutter</li><li>Enhanced device aesthetics</li> |
 
 ## License
 
